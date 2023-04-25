@@ -2,7 +2,7 @@
 Job Application Form Using HTML &amp; CSS
 
 # Expected output
-[embed]https://github.com/hardcore-coder-69/job-application-form/blob/main/job-application-form/output/output.pdf
+https://github.com/hardcore-coder-69/job-application-form/blob/main/job-application-form/output/output.pdf
 
 # Steps:
 1. Clone the repository
